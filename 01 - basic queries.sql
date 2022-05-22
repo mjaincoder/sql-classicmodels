@@ -1,3 +1,8 @@
+
+##############################
+  01 - Basic SQL Commands
+##############################
+
 SQL Commands
 
 # Create a database
